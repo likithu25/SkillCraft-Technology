@@ -8,7 +8,8 @@ JavaScript and problem-solving abilities through real-world assignments.
 - JavaScript
 
 # Task List
-- ✅ Task 1: An interactive navigation menu that changes color or style when scrolled or when hovering over a menu item.
+- # ✅ Task 1: An interactive navigation menu that changes color or style when scrolled or when hovering over a menu item.
+- 
   <img width="1891" height="890" alt="Screenshot 2025-08-22 193010" src="https://github.com/user-attachments/assets/a2647be9-800e-4d21-afad-37b579483568" />
 
 - ✅ Task 2: An interactive and user-friendly stopwatch web application. Implement functions for starting, pausing, and resetting the stopwatch, as well as tracking and displaying lap times, Users can accurately measure and record time intervals.
